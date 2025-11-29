@@ -1,7 +1,7 @@
 # NextCompany Discord Bot
 
-## Overview
-Bot do Discord para o time NextCompany com funcionalidades de gestao de horarios, sistema de Pokemon, integracao com IA Gemini e webhook do DeskManager.
+# Overview
+Bot do Discord para o time NextCompany com funcionalidades de gestão de horários, sistema de Pokemon, integração com IA Gemini e webhook do DeskManager.
 
 ## Estrutura do Projeto
 

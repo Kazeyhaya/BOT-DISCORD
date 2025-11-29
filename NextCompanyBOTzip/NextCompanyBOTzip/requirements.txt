@@ -1,0 +1,12 @@
+discord.py
+python-dotenv
+aiohttp
+beautifulsoup4
+duckduckgo-search
+google-generativeai
+aiohttp
+beautifulsoup4
+discord.py
+duckduckgo-search
+google-generativeai
+python-dotenv
